@@ -13,4 +13,5 @@ This project demonstrates a simple example of using Flask with Python in a Docke
 
 ```bash
 git clone https://github.com/israelglixinski/docker_python_example_flask.git
+(or git clone https://gitlab.com/israel_glixinski/docker_python_example_flask.git)
 cd docker_python_example_flask
